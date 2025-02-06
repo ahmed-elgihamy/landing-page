@@ -15,7 +15,9 @@ A simple and responsive website for a **Pet Adoption Center** where users can ex
 
 ## 🌐 Demo
 
-![Website Preview](imgs/preview.png)
+![Website Preview](landing-page-ten-rust-78.vercel.app
+Resources
+)
 
 ---
 
