@@ -15,9 +15,9 @@ A simple and responsive website for a **Pet Adoption Center** where users can ex
 
 ## 🌐 Demo
 
-![Website Preview](landing-page-ten-rust-78.vercel.app
+landing-page-ten-rust-78.vercel.app
 Resources
-)
+
 
 ---
 
@@ -30,17 +30,6 @@ Resources
 - **Google Fonts** *(Optional)*: Customize fonts as needed.
 
 ---
-
-## 📸 Screenshots
-
-### Home Section
-![Home Page](imgs/home-screenshot.png)
-
-### Meet Our Friends Section
-![Pets Section](imgs/pets-screenshot.png)
-
----
-
 
 ## 📧 Contact
 
