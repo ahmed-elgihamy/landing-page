@@ -13,11 +13,8 @@ A simple and responsive website for a **Pet Adoption Center** where users can ex
 
 ---
 
-## 🌐 Demo
-
-landing-page-ten-rust-78.vercel.app
-Resources
-
+## Deployment
+This project is deployed at [Pet Adoption Center Website](https://landing-page-ten-rust-78.vercel.app/).
 
 ---
 
@@ -33,8 +30,12 @@ Resources
 
 ## 📧 Contact
 
-For any inquiries or feedback, feel free to contact me at **[ahmed.mahmoud.elghmay@gmail.come]**.
+If you have any questions or suggestions :
 
+Email: ahmed.mahmoud.elghamy@gmail.com
+Phone: +01024299781
 ---
+
+
 
 
